@@ -74,7 +74,7 @@
 
 ---
 
-### 🏆 Achievements & Fun Animations  
+### 🏆 Achievements 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Atharva45264&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
@@ -86,7 +86,7 @@
 
 ---
 
-### 🐍 Contribution Snake Animation  
+### 🐍 MY Contribution  
 
 <p align="center">
   <picture>
