@@ -45,19 +45,6 @@
 
 ---
 
-### 📌 Pinned Projects  
-
-<p align="center">
-  <a href="https://github.com/Atharva45264/Chat-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva45264&repo=Chat-App&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Atharva45264/SentinelAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva45264&repo=Sentinel-AI-Network-IDS&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats  
 
 <p align="center">
@@ -86,7 +73,7 @@
 
 ---
 
-### 🐍 MY Contribution  
+### 🐍 My Contribution  
 
 <p align="center">
   <picture>
