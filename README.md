@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Atharva%20Phanse&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Applied%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hello%2C+my+name+is;Atharva+Phanse" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+FastAPI;Applied+AI+%2F+ML+Integration;Building+Production-Grade+Systems" alt="Typing SVG" />
 
@@ -12,7 +12,6 @@
 
 <br/><br/>
 
-<a href="https://mypersonal-portfolio-ul67.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0F0F1A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/atharva-phanse-2aa4b62a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:atharvaphanse403@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Atharva45264"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -71,19 +70,11 @@ I've shipped full-stack platforms using **React, Next.js, and Node/Express-based
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharva45264&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Atharva45264&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva45264&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C4B5FD" alt="Top Languages" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharva45264&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -133,13 +124,10 @@ open_to:
   <a href="mailto:atharvaphanse403@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/atharva-phanse-2aa4b62a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Atharva45264"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://mypersonal-portfolio-ul67.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0F0F1A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <div align="center">
 
 ⭐ *"Code is like humor. When you have to explain it, it's bad."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
