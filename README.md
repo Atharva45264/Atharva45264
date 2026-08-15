@@ -1,79 +1,102 @@
-<h1 align="center">Hi there 👋, I'm Atharva Phanse</h1>
-<h3 align="center">💻 Frontend Developer | 🌐 Web Enthusiast | 🤖 AI/ML Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0891B2&width=500&lines=Frontend+Developer;React+%7C+Node.js+%7C+MongoDB;AI+%2F+ML+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Atharva%20Phanse&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Applied%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+FastAPI;Applied+AI+%2F+ML+Integration;Building+Production-Grade+Systems" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.E.%20Information%20Technology-2022--2026-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-8.35-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://mypersonal-portfolio-ul67.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0F0F1A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/atharva-phanse-2aa4b62a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:atharvaphanse403@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Atharva45264"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Atharva45264&label=Profile%20Views&color=6D28D9&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Atharva45264?label=Followers&style=for-the-badge&color=7C3AED&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/Atharva45264?label=Stars&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a final-year Information Technology student and software engineer focused on **full-stack development** and **applied AI/ML integration**. My work spans building complete web platforms — frontend, backend, and database layers — and embedding AI models into practical, production-shaped tools rather than surface-level demos.
+
+I've shipped full-stack platforms using **React, Next.js, and Node/Express-based backends**, built **Python/FastAPI services** backed by MongoDB and SQL databases, and integrated **generative AI models (Gemini, Llama 3.1 via Groq)** into automation and content pipelines.
+
+**Open To:**
+
+- 🔹 Software Engineering Internships & Entry-Level Roles
+- 🔹 Full-Stack Development Collaborations
+- 🔹 AI/ML Integration & Applied AI Projects
+- 🔹 Open-Source Contribution
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=python,js,ts,html,css" /></p>
+
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></p>
+
+**Backend & Databases**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql" /></p>
+
+**Cloud, DevOps & Tooling**
+<p><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" /></p>
+<p>
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
 
-### 👨‍🎓 About Me  
-- 🌍 Based in **Mumbai, India**  
-- 🎓 4th year **Information Technology** student at Atharva College of Engineering  
-- 💡 Passionate about **Frontend Development** & exploring **AI/ML**  
-- ✉️ Reach me at: [atharvaphanse403@gmail.com](mailto:atharvaphanse403@gmail.com)  
-- 🧠 Currently learning **React & Modern Web Development**  
-- 🌐 Check out my **[Portfolio Website](https://mypersonal-portfolio-ul67.onrender.com/)**  
-- ⚡ Fun fact: I love blending **tech + creativity** to make interactive apps  
-
----
-
-### 🛠️ Skills  
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,python,java,git,flask,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva45264&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharva45264&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva45264&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C4B5FD" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+## 🏅 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/Atharva45264" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/atharva-phanse-2aa4b62a5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:atharvaphanse403@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mypersonal-portfolio-ul67.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharva45264&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva45264&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Atharva45264&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva45264&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva45264&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=8B5CF6&point=C4B5FD" alt="Activity Graph" />
 </p>
 
 ---
 
-### 🏆 Achievements 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharva45264&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
----
-
-### 🐍 My Contribution  
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -83,7 +106,40 @@
   </picture>
 </p>
 
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced AI workflow orchestration
+  - Scalable backend architecture with FastAPI
+building:
+  - AI-integrated full-stack applications
+  - Automated content & data pipelines
+exploring:
+  - Real-time collaboration systems
+  - Applied machine learning fundamentals
+open_to:
+  - Software Engineering Internships
+  - Full-Stack / AI-ML Collaborations
+```
 
 ---
 
-⭐ **“Code is like humor. When you have to explain it, it’s bad.”**  
+## 🔗 Connect
+
+<p align="center">
+  <a href="mailto:atharvaphanse403@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/atharva-phanse-2aa4b62a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Atharva45264"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://mypersonal-portfolio-ul67.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0F0F1A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<div align="center">
+
+⭐ *"Code is like humor. When you have to explain it, it's bad."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
